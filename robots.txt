@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nexobova.vercel.app/sitemap.xml
+Sitemap:https://nexobova-hq.vercel.app/sitemap.xml
